@@ -13,7 +13,8 @@ body
         background-position: center; 
     }
  .app {
-        background-image: url('https://www.pexels.com/photo/purple-and-black-abstract-painting-10874566/');      
+        
+         background-color: lightgray;      
          background-size: cover; 
         background-position: center;
         background-repeat: no-repeat; 
